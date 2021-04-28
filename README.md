@@ -1,1 +1,1 @@
-# VeaBot - Installer Plików. VeaBot.PY [Polski bot wielofunkcyjne napisany w pythonie]
+# VeaBot - Installer Plików. VeaBot.PY [Polski bot wielofunkcyjnynapisany w pythonie]
